@@ -1,7 +1,7 @@
 import factory
 from ckan import model
 from ckan.plugins import toolkit
-from ckantoolkit.tests import factories
+from ckan.tests import factories
 from ckanext.api_tracking.models import TrackingUsage
 
 
